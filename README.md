@@ -26,10 +26,9 @@
         </tr>
         <tr>
           <td><label>Your Comments:</label></td>
-          <td><textarea name="yourComment" rows="10" cols="100"></textarea></td>
+          <td><textarea name="Your Comment" rows="8" cols="80"></textarea></td>
         </tr>
       </table>
-        ![2 (4)](https://user-images.githubusercontent.com/99969531/154688315-fdbd889d-5958-4f2e-838a-b5f6d7b56cb7.jpeg)
     </form>
   </body>
   </html>
