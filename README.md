@@ -25,8 +25,8 @@
           <td><input type="number" name="yourNumber" value=""></td>
         </tr>
         <tr>
-          <td><label>Your Message:</label></td>
-          <td><textarea name="yourComment" rows="8" cols="80"></textarea></td>
+          <td>Your Message</td>
+	  <td><textarea name="Your Comment" rows="8" cols="80"></textarea></td>
         </tr>
       </table>
     </form>
