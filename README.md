@@ -1,10 +1,7 @@
 # HTML
 <html>
   <head>
-    <title>
-      B
-    </title>
-  </head>
+    </head>
   <body>
     <form action="mailto:pmshah2020@gmail.com" method="post" enctype="text">
       <table>
@@ -24,11 +21,7 @@
           <td><label>Contact Number:</label></td>
           <td><input type="number" name="yourNumber" value=""></td>
         </tr>
-        <tr>
-          <td>Your Message</td>
-	  <td><textarea name="Your Comment" rows="8" cols="80"></textarea></td>
-        </tr>
-      </table>
+       </table>
     </form>
   </body>
   </html>
